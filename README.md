@@ -1,5 +1,3 @@
-![Android Development](./AndroidGIF.gif)
-
 # Hi there! 👋  
 
 I'm **Shubham Singh**, an engineering student passionate about building and learning through real-world projects.  
