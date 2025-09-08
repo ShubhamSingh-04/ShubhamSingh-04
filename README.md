@@ -31,14 +31,7 @@ I'm **Shubham Singh**, an engineering student passionate about building and lear
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsinghmys&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinghmys&layout=compact&theme=radical)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
 
 ---
 
